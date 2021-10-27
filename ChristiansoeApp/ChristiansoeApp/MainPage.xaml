@@ -14,7 +14,7 @@
                 <FormattedString>
                     <FormattedString.Spans>
                         <Span Text="Learn more at "/>
-                        <Span Text="Hej"/>
+                        <Span Text="Hejhej"/>
                         <Span Text="https://aka.ms/xamarin-quickstart" FontAttributes="Bold"/>
                     </FormattedString.Spans>
                 </FormattedString>
