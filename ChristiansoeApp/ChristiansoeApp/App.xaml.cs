@@ -11,6 +11,7 @@ namespace ChristiansoeApp
             InitializeComponent();
 
             MainPage = new MainPage();
+            Console.WriteLine("Hej");
         }
 
         protected override void OnStart()

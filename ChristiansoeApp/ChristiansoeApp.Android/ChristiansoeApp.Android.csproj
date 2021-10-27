@@ -16,7 +16,6 @@
     <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
     <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
     <MonoAndroidAssetsPrefix>Assets</MonoAndroidAssetsPrefix>
-    <AndroidUseLatestPlatformSdk>false</AndroidUseLatestPlatformSdk>
     <TargetFrameworkVersion>v11.0</TargetFrameworkVersion>
     <AndroidEnableSGenConcurrent>true</AndroidEnableSGenConcurrent>
     <AndroidUseAapt2>true</AndroidUseAapt2>
@@ -88,7 +87,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\ChristiansoeApp\ChristiansoeApp.csproj">
-      <Project>{22F6F43B-5FBE-4EAF-AD67-CF4912CE596D}</Project>
+      <Project>{556BBC9F-0627-4A10-88ED-CCDDD8CA94F0}</Project>
       <Name>ChristiansoeApp</Name>
     </ProjectReference>
   </ItemGroup>
