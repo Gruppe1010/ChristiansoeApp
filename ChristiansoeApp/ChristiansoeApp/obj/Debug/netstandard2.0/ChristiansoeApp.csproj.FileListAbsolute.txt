@@ -1,0 +1,17 @@
+C:\Users\vibej\Desktop\ChristiansoeApp\ChristiansoeApp\ChristiansoeApp\bin\Debug\netstandard2.0\ChristiansoeApp.deps.json
+C:\Users\vibej\Desktop\ChristiansoeApp\ChristiansoeApp\ChristiansoeApp\bin\Debug\netstandard2.0\ChristiansoeApp.dll
+C:\Users\vibej\Desktop\ChristiansoeApp\ChristiansoeApp\ChristiansoeApp\bin\Debug\netstandard2.0\ref\ChristiansoeApp.dll
+C:\Users\vibej\Desktop\ChristiansoeApp\ChristiansoeApp\ChristiansoeApp\bin\Debug\netstandard2.0\ChristiansoeApp.pdb
+C:\Users\vibej\Desktop\ChristiansoeApp\ChristiansoeApp\ChristiansoeApp\obj\Debug\netstandard2.0\ChristiansoeApp.csproj.AssemblyReference.cache
+C:\Users\vibej\Desktop\ChristiansoeApp\ChristiansoeApp\ChristiansoeApp\obj\Debug\netstandard2.0\ChristiansoeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vibej\Desktop\ChristiansoeApp\ChristiansoeApp\ChristiansoeApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\vibej\Desktop\ChristiansoeApp\ChristiansoeApp\ChristiansoeApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\vibej\Desktop\ChristiansoeApp\ChristiansoeApp\ChristiansoeApp\obj\Debug\netstandard2.0\ChristiansoeApp.AssemblyInfoInputs.cache
+C:\Users\vibej\Desktop\ChristiansoeApp\ChristiansoeApp\ChristiansoeApp\obj\Debug\netstandard2.0\ChristiansoeApp.AssemblyInfo.cs
+C:\Users\vibej\Desktop\ChristiansoeApp\ChristiansoeApp\ChristiansoeApp\obj\Debug\netstandard2.0\ChristiansoeApp.csproj.CoreCompileInputs.cache
+C:\Users\vibej\Desktop\ChristiansoeApp\ChristiansoeApp\ChristiansoeApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\vibej\Desktop\ChristiansoeApp\ChristiansoeApp\ChristiansoeApp\obj\Debug\netstandard2.0\ChristiansoeApp.dll
+C:\Users\vibej\Desktop\ChristiansoeApp\ChristiansoeApp\ChristiansoeApp\obj\Debug\netstandard2.0\ref\ChristiansoeApp.dll
+C:\Users\vibej\Desktop\ChristiansoeApp\ChristiansoeApp\ChristiansoeApp\obj\Debug\netstandard2.0\ChristiansoeApp.pdb
+C:\Users\vibej\Desktop\ChristiansoeApp\ChristiansoeApp\ChristiansoeApp\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\vibej\Desktop\ChristiansoeApp\ChristiansoeApp\ChristiansoeApp\obj\Debug\netstandard2.0\Page2.xaml.g.cs
